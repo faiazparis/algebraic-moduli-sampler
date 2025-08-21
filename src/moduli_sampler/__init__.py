@@ -8,7 +8,7 @@ All mathematics is grounded in trusted references with explicit citations.
 
 __version__ = "0.1.0"
 __author__ = "faiazparis"
-__email__ = "faiazparis@example.com"
+__email__ = "faiazparis@gmail.com"
 
 # Core modules
 from .sampling import Sampler, SamplingParams

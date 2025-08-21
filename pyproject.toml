@@ -9,7 +9,7 @@ description = "Algebraic Moduli Sampler: Sheaf Cohomology on Curves"
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "faiazparis", email = "faiazparis@example.com"}
+    {name = "faiazparis", email = "faiazparis@gmail.com"}
 ]
 keywords = [
     "algebraic geometry", "moduli", "sheaf cohomology", "Riemann-Roch",
