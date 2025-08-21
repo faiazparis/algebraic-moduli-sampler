@@ -1,0 +1,16 @@
+{
+  "family_type": "P1",
+  "constraints": {
+    "degree": [-3, 5],
+    "field": "Q",
+    "smoothness_check": true
+  },
+  "sampling": {
+    "strategy": "grid",
+    "n_samples_default": 9,
+    "seed": 42
+  },
+  "invariants": {
+    "compute": ["h0", "h1", "canonical_deg"]
+  }
+}

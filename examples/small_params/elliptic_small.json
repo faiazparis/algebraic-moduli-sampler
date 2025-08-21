@@ -1,0 +1,19 @@
+{
+  "family_type": "Elliptic",
+  "constraints": {
+    "coefficient_ranges": {
+      "a": [-3, 3],
+      "b": [-3, 3]
+    },
+    "field": "Q",
+    "smoothness_check": true
+  },
+  "sampling": {
+    "strategy": "random",
+    "n_samples_default": 25,
+    "seed": 7
+  },
+  "invariants": {
+    "compute": ["genus", "h0", "h1", "degK"]
+  }
+}

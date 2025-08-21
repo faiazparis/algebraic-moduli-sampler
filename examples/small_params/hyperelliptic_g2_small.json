@@ -1,0 +1,25 @@
+{
+  "family_type": "Hyperelliptic",
+  "constraints": {
+    "genus": 2,
+    "coefficient_ranges": {
+      "a0": [-2, 2],
+      "a1": [-2, 2],
+      "a2": [-2, 2],
+      "a3": [-2, 2],
+      "a4": [-2, 2],
+      "a5": [-2, 2],
+      "a6": [-2, 2]
+    },
+    "field": "Q",
+    "smoothness_check": true
+  },
+  "sampling": {
+    "strategy": "random",
+    "n_samples_default": 20,
+    "seed": 11
+  },
+  "invariants": {
+    "compute": ["genus", "degK", "h0", "h1"]
+  }
+}
